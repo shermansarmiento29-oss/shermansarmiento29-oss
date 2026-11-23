@@ -1,6 +1,6 @@
 <!-- ============ CYBERPUNK PROFILE // SHERMAN SARMIENTO ============ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0221,40:ff2a6d,100:05d9e8&height=230&section=header&text=SHERMAN%20SARMIENTO&fontSize=48&fontColor=ffffff&fontAlign=50&fontAlignY=40&stroke=05d9e8&strokeWidth=2&animation=twinkling&desc=DEV%20EN%20FORMACI%C3%93N%20%2F%2F%20SENA%20ADSO%20%2F%2F%20COLOMBIA&descAlignY=62&descSize=16" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:ff2a6d,100:05d9e8&height=230&section=header&text=SHERMAN%20SARMIENTO&fontSize=48&fontColor=ffffff&fontAlign=50&fontAlignY=40&stroke=05d9e8&strokeWidth=2&animation=twinkling&desc=DEV%20EN%20FORMACI%C3%93N%20%2F%2F%20SENA%20ADSO%20%2F%2F%20COLOMBIA&descAlignY=62&descSize=16" width="100%"/>
 </p>
 
 <p align="center">
