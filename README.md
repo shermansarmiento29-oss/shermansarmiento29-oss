@@ -1,151 +1,118 @@
-<!-- ===================== HEADER ===================== -->
+<!-- ============ CYBERPUNK PROFILE // SHERMAN SARMIENTO ============ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:00C9A7,100:2E9EF7&height=200&section=header&text=Sherman%20Sarmiento&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Desarrollador%20de%20Software%20en%20formaci%C3%B3n%20%7C%20SENA%20ADSO%20%F0%9F%87%A8%F0%9F%87%B4&descAlignY=58&descSize=17" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0221,40:ff2a6d,100:05d9e8&height=230&section=header&text=SHERMAN%20SARMIENTO&fontSize=48&fontColor=ffffff&fontAlign=50&fontAlignY=40&stroke=05d9e8&strokeWidth=2&animation=twinkling&desc=%3E%3E%20DEV%20EN%20FORMACI%C3%93N%20%2F%2F%20SENA%20ADSO%20%2F%2F%20COLOMBIA%20%3C%3C&descAlignY=62&descSize=16" width="100%"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/shermansarmiento29-oss">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=00C9A7&center=true&vCenter=true&width=600&lines=%C2%A1Hola!+Soy+Sherman+%F0%9F%91%8B;APIs+REST+con+Laravel+%F0%9F%9A%80;Apps+m%C3%B3viles+con+Flutter+%F0%9F%93%B1;Escritorio+con+C%23+%F0%9F%96%A5%EF%B8%8F;Datos+con+MySQL+y+Power+BI+%F0%9F%93%8A;Siempre+aprendiendo+algo+nuevo+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=2800&pause=700&color=FF2A6D&center=true&vCenter=true&width=650&lines=%3E+INICIANDO+SISTEMA...;%3E+BIENVENIDO+AL+PERFIL+DE+SHERMAN;%3E+LARAVEL+%2F%2F+FLUTTER+%2F%2F+C%23;%3E+CONECTANDO+APIS+AL+FUTURO+%E2%9A%A1;%3E+ACCESO+CONCEDIDO_" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shermansarmiento29-oss&label=Visitas&color=00C9A7&style=for-the-badge" alt="visitas"/>
-  <img src="https://img.shields.io/github/followers/shermansarmiento29-oss?label=Seguidores&style=for-the-badge&color=2E9EF7&logo=github" alt="seguidores"/>
-  <img src="https://img.shields.io/badge/📍-Colombia-FCD116?style=for-the-badge" alt="Colombia"/>
+  <img src="https://komarev.com/ghpvc/?username=shermansarmiento29-oss&label=VISITAS&color=ff2a6d&style=for-the-badge" alt="visitas"/>
+  <img src="https://img.shields.io/github/followers/shermansarmiento29-oss?label=SEGUIDORES&style=for-the-badge&color=05d9e8&labelColor=0d0221&logo=github" alt="seguidores"/>
+  <img src="https://img.shields.io/badge/UBICACI%C3%93N-COLOMBIA-f9f002?style=for-the-badge&labelColor=0d0221" alt="Colombia"/>
+  <img src="https://img.shields.io/badge/ESTADO-ONLINE-39ff14?style=for-the-badge&labelColor=0d0221" alt="online"/>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🧑‍💻 Sobre mí
+## `// 01 ::` 🧬 PERFIL DEL USUARIO
 
-<img align="right" width="300" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="dev"/>
+```ini
+[ IDENTIDAD ]
+nombre      = Sherman Sarmiento
+rol         = Aprendiz de Análisis y Desarrollo de Software
+base        = SENA // Colombia 🇨🇴
 
-```js
-const sherman = {
-  rol:         "Aprendiz de Análisis y Desarrollo de Software",
-  formacion:   "SENA 🇨🇴",
-  backend:     ["Laravel", "PHP", "C#"],
-  mobile:      ["Flutter", "Dart"],
-  frontend:    ["HTML", "CSS", "JavaScript"],
-  datos:       ["MySQL", "Python", "Power BI"],
-  enfoque:     "Convertir datos en decisiones inteligentes 📈",
-  funFact:     "Disfruto resolver problemas complejos 🧠"
-};
+[ MÓDULOS INSTALADOS ]
+backend     = Laravel · PHP · C#
+mobile      = Flutter · Dart
+frontend    = HTML · CSS · JavaScript
+datos       = MySQL · Python · Power BI
+
+[ MISIÓN ]
+objetivo    = Convertir datos en decisiones inteligentes
+modo        = Aprendizaje continuo // nivel: subiendo ▓▓▓▓▓▓▓░░░
 ```
 
-- 🔭 Construyendo **APIs REST con Laravel** y apps **Flutter** que las consumen.
-- 📊 Fortaleciendo **bases de datos, análisis y visualización de datos**.
-- 🌱 Aprendiendo cada día algo nuevo en desarrollo de software.
-- 💬 Pregúntame sobre **PHP, Laravel, Flutter, C# o SQL**.
+> ⚡ **Ahora mismo:** construyendo APIs REST con Laravel y apps Flutter que las consumen.  
+> 🛰️ **Pregúntame sobre:** PHP · Laravel · Flutter · C# · SQL
 
-<br clear="right"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
----
-
-## 🛠️ Tecnologías y herramientas
+## `// 02 ::` ⚙️ ARSENAL TECNOLÓGICO
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,flutter,dart,cs,dotnet,py,js,html,css,mysql&perline=6" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,androidstudio,postman&perline=6" />
-  </a>
+  <img src="https://img.shields.io/badge/PHP-0d0221?style=for-the-badge&logo=php&logoColor=ff2a6d"/>
+  <img src="https://img.shields.io/badge/LARAVEL-0d0221?style=for-the-badge&logo=laravel&logoColor=ff2a6d"/>
+  <img src="https://img.shields.io/badge/FLUTTER-0d0221?style=for-the-badge&logo=flutter&logoColor=05d9e8"/>
+  <img src="https://img.shields.io/badge/DART-0d0221?style=for-the-badge&logo=dart&logoColor=05d9e8"/>
+  <img src="https://img.shields.io/badge/C%23-0d0221?style=for-the-badge&logo=csharp&logoColor=ff2a6d"/>
+  <img src="https://img.shields.io/badge/.NET-0d0221?style=for-the-badge&logo=dotnet&logoColor=05d9e8"/>
+  <img src="https://img.shields.io/badge/PYTHON-0d0221?style=for-the-badge&logo=python&logoColor=f9f002"/>
   <br/>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/JAVASCRIPT-0d0221?style=for-the-badge&logo=javascript&logoColor=f9f002"/>
+  <img src="https://img.shields.io/badge/HTML5-0d0221?style=for-the-badge&logo=html5&logoColor=ff2a6d"/>
+  <img src="https://img.shields.io/badge/CSS3-0d0221?style=for-the-badge&logo=css3&logoColor=05d9e8"/>
+  <img src="https://img.shields.io/badge/MYSQL-0d0221?style=for-the-badge&logo=mysql&logoColor=05d9e8"/>
+  <img src="https://img.shields.io/badge/POWER_BI-0d0221?style=for-the-badge&logo=powerbi&logoColor=f9f002"/>
+  <br/>
+  <img src="https://img.shields.io/badge/GIT-0d0221?style=for-the-badge&logo=git&logoColor=ff2a6d"/>
+  <img src="https://img.shields.io/badge/VS_CODE-0d0221?style=for-the-badge&logo=visualstudiocode&logoColor=05d9e8"/>
+  <img src="https://img.shields.io/badge/ANDROID_STUDIO-0d0221?style=for-the-badge&logo=androidstudio&logoColor=39ff14"/>
+  <img src="https://img.shields.io/badge/POSTMAN-0d0221?style=for-the-badge&logo=postman&logoColor=ff2a6d"/>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🚀 Proyectos destacados
+## `// 03 ::` 🕹️ MISIONES COMPLETADAS
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📇 API de Contactos</h3>
-      API REST en <b>Laravel</b> con login/logout, CRUD de contactos con <i>soft delete</i>, perfil de contacto y de usuario.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📱 Contactos Tester</h3>
-      App <b>Flutter</b> que consume mi API de contactos y prueba las APIs de mis compañeros con solo cambiar la URL.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>⚡ Pokédex Flutter</h3>
-      App de pokémones con login, inicio, agregar pokémon y perfil, organizada en models / screens / controllers.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🏦 Banco ADSO</h3>
-      Sistema bancario en <b>PHP</b>: login, cuentas, retiros y transferencias.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🥐 <a href="https://github.com/shermansarmiento29-oss/BelleCroissantLyonnais">Belle Croissant Lyonnais</a></h3>
-      App de escritorio en <b>C# WinForms</b> adaptada de un reto tipo WorldSkills.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
-      <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🍬 Confitería ADSO</h3>
-      Tienda web de dulces de varias páginas con slider interactivo de productos.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-    </td>
-  </tr>
-</table>
+| 🔻 PROYECTO | 📡 DESCRIPCIÓN | 🧪 STACK |
+|:--|:--|:--|
+| 📇 **API de Contactos** | Login/logout, CRUD de contactos con *soft delete*, perfiles de contacto y usuario | `Laravel` `PHP` `MySQL` |
+| 📱 **Contactos Tester** | App que consume mi API y prueba las APIs de mis compañeros con solo cambiar la URL | `Flutter` `Dart` |
+| ⚡ **Pokédex Flutter** | Login, inicio, agregar pokémon y perfil; arquitectura models / screens / controllers | `Flutter` `Dart` |
+| 🏦 **Banco ADSO** | Sistema bancario: login, cuentas, retiros y transferencias | `PHP` `MySQL` |
+| 🥐 **[Belle Croissant Lyonnais](https://github.com/shermansarmiento29-oss/BelleCroissantLyonnais)** | App de escritorio adaptada de un reto tipo WorldSkills | `C#` `WinForms` |
+| 🍬 **Confitería ADSO** | Tienda web de dulces con slider interactivo de productos | `HTML` `CSS` `JS` |
 
 <p align="center">
   <a href="https://github.com/shermansarmiento29-oss?tab=repositories">
-    <img src="https://img.shields.io/badge/Ver_todos_mis_repositorios-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/%3E%3E_ACCEDER_A_TODOS_LOS_REPOSITORIOS_%3C%3C-ff2a6d?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0221"/>
   </a>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📊 Estadísticas
+## `// 04 ::` 📡 TELEMETRÍA
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shermansarmiento29-oss&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=es" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shermansarmiento29-oss&layout=compact&theme=tokyonight&hide_border=true&locale=es" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shermansarmiento29-oss&show_icons=true&theme=radical&hide_border=true&bg_color=0d0221&count_private=true&locale=es" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shermansarmiento29-oss&layout=compact&theme=radical&hide_border=true&bg_color=0d0221&locale=es" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shermansarmiento29-oss&theme=tokyonight&hide_border=true&locale=es" alt="racha"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shermansarmiento29-oss&theme=radical&hide_border=true&background=0d0221&locale=es" alt="racha"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shermansarmiento29-oss&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="gráfico de actividad"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shermansarmiento29-oss&bg_color=0d0221&color=05d9e8&line=ff2a6d&point=f9f002&area=true&area_color=ff2a6d&hide_border=true" width="100%" alt="gráfico de actividad"/>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🤝 Conectemos
+## `// 05 ::` 🔌 ESTABLECER CONEXIÓN
 
 <p align="center">
-  <a href="https://github.com/shermansarmiento29-oss"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/shermansarmiento29-oss"><img src="https://img.shields.io/badge/GITHUB-0d0221?style=for-the-badge&logo=github&logoColor=05d9e8"/></a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,50:00C9A7,100:0f2027&height=120&section=footer" width="100%"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=14&pause=1000&color=05D9E8&center=true&vCenter=true&width=500&lines=%3E+FIN+DE+LA+TRANSMISI%C3%93N_;%3E+GRACIAS+POR+VISITAR+%E2%9C%A6" alt="fin"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:05d9e8,60:ff2a6d,100:0d0221&height=120&section=footer" width="100%"/>
 </p>
