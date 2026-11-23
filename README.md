@@ -1,6 +1,6 @@
 <!-- ============ CYBERPUNK PROFILE // SHERMAN SARMIENTO ============ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:ff2a6d,100:05d9e8&height=230&section=header&text=SHERMAN%20SARMIENTO&fontSize=48&fontColor=ffffff&fontAlign=50&fontAlignY=40&stroke=05d9e8&strokeWidth=2&animation=twinkling&desc=DEV%20EN%20FORMACI%C3%93N%20%2F%2F%20SENA%20ADSO%20%2F%2F%20COLOMBIA&descAlignY=62&descSize=16" width="100%"/>
+  <img src="https://github.com/shermansarmiento29-oss/shermansarmiento29-oss/raw/main/assets/banner.svg" width="100%" alt="banner cyberpunk"/>
 </p>
 
 <p align="center">
@@ -101,6 +101,10 @@ modo        = Aprendizaje continuo // nivel: subiendo ▓▓▓▓▓▓▓░�
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shermansarmiento29-oss&bg_color=0d0221&color=05d9e8&line=ff2a6d&point=f9f002&area=true&area_color=ff2a6d&hide_border=true" width="100%" alt="gráfico de actividad"/>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shermansarmiento29-oss/shermansarmiento29-oss/output/snake-neon.svg" alt="serpiente de contribuciones" width="100%"/>
+</p>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## `// 05 ::` 🔌 ESTABLECER CONEXIÓN
@@ -110,9 +114,5 @@ modo        = Aprendizaje continuo // nivel: subiendo ▓▓▓▓▓▓▓░�
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=14&pause=1000&color=05D9E8&center=true&vCenter=true&width=500&lines=%3E+FIN+DE+LA+TRANSMISI%C3%93N_;%3E+GRACIAS+POR+VISITAR+%E2%9C%A6" alt="fin"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:05d9e8,60:ff2a6d,100:0d0221&height=120&section=footer" width="100%"/>
+  <img src="https://github.com/shermansarmiento29-oss/shermansarmiento29-oss/raw/main/assets/footer.svg" width="100%" alt="footer"/>
 </p>
